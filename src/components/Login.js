@@ -41,7 +41,7 @@ const Login = () => {
             />
           </div>
           <Button color='mainTone' variant='contained' type="submit">Sign Up</Button>
-          <Link to={'/register'}>Don't have an account? Register now.</Link>
+          <p>Don't have an account? <Link className='font-semibold' to={'/register'}>Register now.</Link></p>
       </Stack>
     </form>
   )

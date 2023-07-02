@@ -2,7 +2,7 @@ import heroIllustration from '../assets/illustration4.svg'
 
 const Hero = () =>{
     return (
-        <section className='flex justify-between items-center py-36 p-20' >
+        <section className='flex justify-between items-center py-40 p-20' >
             <div>
                 <h2 className='text-8xl text-[#2F2E41] font-bold'>
                 Transforming Recruitment: 
