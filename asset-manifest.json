@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/studymonk-task/static/css/main.0a3594b0.css",
-    "main.js": "/studymonk-task/static/js/main.891ff6c5.js",
+    "main.js": "/studymonk-task/static/js/main.8d9743ba.js",
     "static/media/showcase-video.mp4": "/studymonk-task/static/media/showcase-video.92431d70ce55a2e6c486.mp4",
     "static/media/app-store.png": "/studymonk-task/static/media/app-store.593721ba5d414afa9833.png",
     "static/media/screen-updated.png": "/studymonk-task/static/media/screen-updated.4b28aca817941e0a2387.png",
@@ -16,10 +16,10 @@
     "static/media/blob-haikei.svg": "/studymonk-task/static/media/blob-haikei.31b2c4a2104f509feeb5.svg",
     "static/media/gem-regular.svg": "/studymonk-task/static/media/gem-regular.b691071374648eb10e7e11195bf97ca0.svg",
     "main.0a3594b0.css.map": "/studymonk-task/static/css/main.0a3594b0.css.map",
-    "main.891ff6c5.js.map": "/studymonk-task/static/js/main.891ff6c5.js.map"
+    "main.8d9743ba.js.map": "/studymonk-task/static/js/main.8d9743ba.js.map"
   },
   "entrypoints": [
     "static/css/main.0a3594b0.css",
-    "static/js/main.891ff6c5.js"
+    "static/js/main.8d9743ba.js"
   ]
 }
